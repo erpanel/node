@@ -2,7 +2,7 @@
 FROM ubuntu:latest
 
 # Set label maintainer
-LABEL maintainer="official4jelas"
+LABEL maintainer="erpanel"
 
 # Nonaktifkan prompt interaktif selama instalasi paket
 ENV DEBIAN_FRONTEND=noninteractive
