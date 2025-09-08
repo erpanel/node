@@ -1,5 +1,5 @@
 # Gunakan image resmi Ubuntu sebagai base
-FROM ubuntu:20.04
+FROM ubuntu:24.04
 
 # Set label maintainer
 LABEL maintainer="official4jelas"
